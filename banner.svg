@@ -16,10 +16,6 @@
   <!-- Wordmark -->
   <text x="80" y="160" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="96" font-weight="800" fill="#ffffff" letter-spacing="-3">mahmouds-seo-guide</text>
 
-  <!-- v3 chip -->
-  <rect x="900" y="100" width="80" height="56" rx="10" fill="url(#accent)"/>
-  <text x="940" y="138" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#0d0d0f" text-anchor="middle">v3</text>
-
   <!-- Subtitle -->
   <text x="84" y="210" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="28" font-weight="500" fill="#a8c8b6">data-backed SEO + AI search knowledge base</text>
 
